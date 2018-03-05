@@ -1,0 +1,29 @@
+{
+  "name": "fabric-payment-sample-api",
+  "version": "0.0.1",
+  "description": "Hyperledger Fabric Sample APP",
+  "scripts": {
+    "start": "node ./api/bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.2",
+    "express-validator": "^5.0.1",
+    "fabric-ca-client": "^1.0.2",
+    "fabric-client": "^1.0.2",
+    "grpc": "^1.6.0",
+    "morgan": "~1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmatsui/fabric-payment-sample-api"
+  },
+  "author": "Nobuyuki Matsui",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Hyperledger",
+    "Fabric"
+  ]
+}
