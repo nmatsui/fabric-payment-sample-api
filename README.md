@@ -15,14 +15,14 @@ This nodejs application using [fabric node sdk](https://github.com/hyperledger/f
 |fabric-ca-client|1.0.2|
 |fabric-client|1.0.2|
 
-## Usage
+## How to build
 ### create api bearer token
 
 ```bash
 $ ./generate_token.sh
 ```
 
-### create docker image
+### build docker image
 ```bash
 $ docker build -t fabric-payment/api .
 ```
