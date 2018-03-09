@@ -1,4 +1,9 @@
 'use strict';
+/*
+ * Copyright Nobuyuki Matsui<nobuyuki.matsui>.
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 const config = require('api/.config/token.json');
 const restr = /^bearer (.+)$/i;

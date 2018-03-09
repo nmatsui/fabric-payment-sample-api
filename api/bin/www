@@ -1,4 +1,10 @@
 #!/usr/bin/env node
+'use strict';
+/*
+ * Copyright Nobuyuki Matsui<nobuyuki.matsui>.
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 const app = require('../app');
 const debug = require('debug')('api:server');

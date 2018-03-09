@@ -1,4 +1,10 @@
 'use strict';
+/*
+ * Copyright IBM Corp All Rights Reserved
+ * Modified Nobuyuki Matsui <nobuyuki.matsui@gmail.com>
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 const ORDERER_ADDRESS = process.env.ORDERER_ADDRESS;
 const PEER_ADDRESS = process.env.PEER_ADDRESS;

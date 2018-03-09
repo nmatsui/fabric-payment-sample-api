@@ -1,4 +1,9 @@
 'use strict';
+/*
+ * Copyright Nobuyuki Matsui<nobuyuki.matsui>.
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 const fabric = require('api/libs/fabric');
 
